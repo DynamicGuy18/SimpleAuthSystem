@@ -2,7 +2,9 @@
 
 Welcome to our Simple Authentication System built with ASP.NET Core MVC!
 
-![Authentication System Preview](authentication_system_preview.png)
+![Authentication System Preview](img1.png)
+![Authentication System Preview](img2.png)
+
 
 ## Features
 
