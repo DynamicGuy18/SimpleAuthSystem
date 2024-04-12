@@ -19,4 +19,4 @@ Follow these steps to get the authentication system up and running on your local
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/simple-authentication-system.git
+   git clone https://github.com/DynamicGuy18/SimpleAuthSystem.git
